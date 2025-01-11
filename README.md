@@ -5,7 +5,7 @@ A Neovim plugin that allows users to try mix and match [Monaspace](https://monas
 <img width="1172" alt="Screenshot 2025-01-10 at 23 12 54" src="https://github.com/user-attachments/assets/df4055d6-9e1f-48ed-9d2f-d7d6c032d221" />
 
 > [!WARNING]
-> This plugin is extremely experimental and only designed for use with [Monaspace](https://monaspace.githubnext.com/) fonts. It may cause unexpected display issues in your terminal emulator. Please use with caution.
+> The sole purpose of his plugin is to test and try the idea of having unique fonts for differnt highlight groups. It's extremely experimental and only tested to use with [Monaspace](https://monaspace.githubnext.com/) fonts. It may cause unexpected display issues in your terminal emulator. Please use with caution.
 
 ## Features
 
@@ -57,7 +57,8 @@ Fortunately, with the feature-rich modern terminal emulators available, we can w
 > [!NOTE]
 > While you can technically use fonts other than Monaspace, please note that it is not guaranteed to work well with each other.
 
-> [!TIP] > `Monaspace` is a fantastic font on its own, even without the Mix & Match feature. Be sure to give it a try!
+> [!TIP]
+> `Monaspace` is a fantastic font on its own, even without the Mix & Match feature. Be sure to give it a try!
 
 ## Setup
 
