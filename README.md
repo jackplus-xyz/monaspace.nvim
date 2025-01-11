@@ -13,6 +13,14 @@ A Neovim plugin that allows users to try mix and match [Monaspace](https://monas
 - Preconfigured highlight groups for optimal font combinations
 - Customizable font mappings per highlight group
 
+## Demos
+
+<img width="533" alt="Screenshot 2025-01-10 at 23 19 44" src="https://github.com/user-attachments/assets/8c7ee3d3-2b5c-4539-938b-fd705ea40721" />
+
+<img width="533" alt="Screenshot 2025-01-10 at 23 26 27" src="https://github.com/user-attachments/assets/75c4eb76-b0a8-4b8b-affc-efbd72bfa1f4" />
+
+<img width="644" alt="Screenshot 2025-01-10 at 23 29 20" src="https://github.com/user-attachments/assets/4df76e91-0166-429f-9b6e-1381bc30aff7" />
+
 ## About
 
 ### TL;DR
