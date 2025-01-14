@@ -10,11 +10,6 @@ function M.set_hl_style(group, style)
 	local new_hl = vim.tbl_extend("force", hl, {
 		bold = is_bold,
 		italic = is_italic,
-		underline = false,
-		undercurl = false,
-		strikethrough = false,
-		reverse = false,
-		force = true,
 	})
 
 	if new_hl.cterm then
