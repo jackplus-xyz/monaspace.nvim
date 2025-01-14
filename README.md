@@ -65,8 +65,7 @@ Fortunately, with the feature-rich modern terminal emulators available, we can w
 > [!NOTE]
 > While you can technically use fonts other than Monaspace, please note that it is not guaranteed to work well with each other.
 
-> [!TIP]
-> `Monaspace` is a fantastic font on its own, even without the Mix & Match feature. Be sure to give it a try!
+> [!TIP] > `Monaspace` is a fantastic font on its own, even without the Mix & Match feature. Be sure to give it a try!
 
 ## Setup
 
@@ -336,3 +335,9 @@ Example configuration:
   }
 }
 ```
+
+## Usage
+
+The plugin provides the following commands:
+
+- `:MonaspaceLoad` - Load the plugin and overwrite the current highlight group
