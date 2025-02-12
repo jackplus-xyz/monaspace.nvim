@@ -72,11 +72,11 @@ Fortunately, with the feature-rich modern terminal emulators available, we can w
 1.  Download and install [Monaspace](https://github.com/githubnext/monaspace/releases)
 1.  Setup a terminal emulator that lets you set different font families for different font styles (regular, bold, italic, bold-italic). `monaspace.nvim` has been tested with the following terminal emulators (in alphabetical order):
 
-- [Alacritty](https://alacritty.org/)
-- [Ghostty](https://ghostty.org/)
-- [kitty](https://sw.kovidgoyal.net/kitty/)
+    - [Alacritty](https://alacritty.org/)
+    - [Ghostty](https://ghostty.org/)
+    - [kitty](https://sw.kovidgoyal.net/kitty/)
 
-  2. Add the following lines to your configuration file accordingly:
+3. Add the following lines to your configuration file accordingly:
 
      <details>
 
